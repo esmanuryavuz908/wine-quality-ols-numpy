@@ -96,6 +96,3 @@ Standartlaştırılmış özellikler üzerinden hesaplanan ağırlıklar, her de
 
 ---
 
-## 👤 Geliştirici
-
-**Esmanur Yavuz**
