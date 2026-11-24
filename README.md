@@ -70,8 +70,8 @@ Standartlaştırılmış özellikler üzerinden hesaplanan ağırlıklar, her de
 
 1. Repoyu bilgisayarınıza klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/REPO_ADIN.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
-   cd REPO_ADIN
+   git clone https://github.com/esmanuryavuz908/wine-quality-ols-numpy.git
+   cd wine-quality-ols-numpy
    ```
 
 2. Gerekli kütüphaneleri yükleyin:
